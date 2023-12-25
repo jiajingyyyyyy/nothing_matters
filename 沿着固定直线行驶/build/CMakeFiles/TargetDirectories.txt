@@ -1,0 +1,3 @@
+/mnt/c/Users/86153/Desktop/校内赛/新建文件夹/build/CMakeFiles/KF.dir
+/mnt/c/Users/86153/Desktop/校内赛/新建文件夹/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/86153/Desktop/校内赛/新建文件夹/build/CMakeFiles/rebuild_cache.dir
